@@ -7,6 +7,7 @@ import Counter from "./counter.js";
 import Subscription from "./subscription.js";
 import Address from "./address.js";
 import AnimalHealth from "./animalHealth.js";
+import Feedback from "./Feedback.js";
 
 export {
     Customer,
@@ -19,5 +20,6 @@ export {
     Counter,
     Subscription,
     Address,
-    AnimalHealth
+    AnimalHealth,
+    Feedback
 };
